@@ -1,8 +1,8 @@
 # SearchGift
 
 ## Instalaciones necesarias
-1-  Node
-2-  Yarn
+1.  Node
+2.  Yarn
   ```
   npm install -g yarn
   ```
